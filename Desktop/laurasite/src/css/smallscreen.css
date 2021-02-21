@@ -1,0 +1,46 @@
+
+
+body {
+	font-size:0.6rem;
+}
+
+#counter {
+	font-size:8vw;
+}
+
+.heading div {
+    margin-top: -50px;
+
+}
+/* /////////////// HEADER///////////// */
+.frame {
+	padding: 1rem 4vw;
+}
+.frame__title {
+	font-size:0.6rem;
+}
+/* /////////////// FIN HEADER///////////// */
+.content__item--home {
+	margin:0 6vw ;
+}
+
+.content__paragraph {
+	font-size: 9vw;
+	font-weight: 300;
+	letter-spacing: -0.2vw;
+  line-height: 0.78;
+}
+
+em {font-size:8vw;margin-left:-4vw;}
+
+
+.content__paragraph--large {
+	font-size: 30vw;
+	top: -25px;
+}
+
+
+.content__item--about {
+	max-height: none;
+padding: 20vh 4vw;
+	}
